@@ -1,6 +1,6 @@
 # animal_names
 
-A package containing a list of 1750 animal names. Useful for test projects learning about Dart/Flutter.
+A package containing a list of 1750 animal names. Useful for test projects while learning about Dart/Flutter.
 
 ## Usage
 
