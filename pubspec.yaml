@@ -1,0 +1,12 @@
+name: animal_names
+description: List of animal names
+version: 0.0.1
+author: Cris Chirinos <cris@thechirinos.com>
+homepage: https://github.com/thechirinos/animal_names
+
+environment:
+  sdk: '>=1.22.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
