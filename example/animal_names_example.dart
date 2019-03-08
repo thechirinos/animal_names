@@ -1,5 +1,5 @@
 import 'package:animal_names/animal_names.dart';
 
 void main() {
-  all.forEach(print);
+  all_animals.forEach(print);
 }

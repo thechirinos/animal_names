@@ -1,3 +1,3 @@
 library animal_names;
 
-export 'src/animals/all.dart';
+export 'src/animals/all_animals.dart';

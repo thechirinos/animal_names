@@ -1,7 +1,7 @@
 // list of animals sorted alphabetically pulled from
 // https://github.com/adzialocha/random-animal-name-generator/blob/master/animals.json
 
-const List<String> all = [
+const List<String> all_animals = [
   "aardvark",
   "aardwolf",
   "abalone",
