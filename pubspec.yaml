@@ -1,6 +1,6 @@
 name: animal_names
-description: List of animal names
-version: 0.0.1
+description: List of 1750 animal names. Great for using in tutorials and test projects when learning Flutter/Dart.
+version: 0.1.0
 author: Cris Chirinos <cris@thechirinos.com>
 homepage: https://github.com/thechirinos/animal_names
 
