@@ -4,13 +4,16 @@ A package containing a list of 1750 animal names. Useful for test projects while
 
 ## Usage
 
-Printing all 1750 animal names:
+Printing all 1750 or random animal names:
 
-    import 'package:animal_names/animal_names.dart';
+```dart
+import 'package:animal_names/animal_names.dart';
 
-    main() {
-      all_animals.forEach(print);
-    }
+main() {
+  print(AnimalNames.allAnimalNames);
+  print(AnimalNames.randomAnimalName);
+}
+```
 
 ## Features and bugs
 
