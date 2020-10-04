@@ -1,5 +1,6 @@
 import 'package:animal_names/animal_names.dart';
 
 void main() {
-  all_animals.forEach(print);
+  print(AnimalNames.allAnimalNames);
+  print(AnimalNames.randomAnimalName);
 }
